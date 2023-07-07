@@ -1,3 +1,9 @@
+# ignore vscode setting
+.vscode/
+
+# ignore target folder
+**/target/*
+
 # Compiled class file
 *.class
 
